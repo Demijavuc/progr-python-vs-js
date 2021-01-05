@@ -1,2 +1,4 @@
 # progr-10a-python-vs-js
- Nodarbība Python un Javascript salīdzināšanai
+Nodarbība Python un Javascript salīdzināšanai
+
+Seko nodarbības norādēm. 
