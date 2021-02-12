@@ -14,7 +14,7 @@ def pirkumaSumma(cena):
         jamaksa = cena*0.97
     print(f"Par pirkumu jāmaksā {jamaksa}")
 
-# sveiciens("10.a klase")
+# sveiciens("12. klase")
 # print(taisnsturaLaukums(2, 3))
 # print(taisnsturaLaukums(-6, 7))
 # pirkumaSumma(101)
