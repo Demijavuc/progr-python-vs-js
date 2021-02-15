@@ -13,6 +13,7 @@ def pirkumaSumma(cena):
     elif cena > 50:
         jamaksa = cena*0.97
     print(f"Par pirkumu jāmaksā {jamaksa}")
+    print('pielabot!')
 
 # sveiciens("12. klase")
 # print(taisnsturaLaukums(2, 3))
